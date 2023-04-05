@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="?colorPrimary">
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="?actionBarItemBackground"
+            android:padding="12dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_keyboard_arrow_left_white_48dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="12dp"
+            android:text="Chatting"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <androidx.recyclerview.widget.RecyclerView
+           android:layout_width="match_parent"
+           android:id="@+id/rc_chatting"
+           android:layout_height="match_parent" />
+       <com.google.android.material.floatingactionbutton.FloatingActionButton
+           android:layout_width="56dp"
+           android:layout_alignParentBottom="true"
+           android:layout_alignParentRight="true"
+           android:layout_marginRight="16dp"
+           android:src="@drawable/ic_add_white_48dp"
+           app:tint="@color/white"
+           android:id="@+id/btn_clicnt"
+           android:layout_marginBottom="32dp"
+           android:layout_height="56dp"/>
+   </RelativeLayout>
+</LinearLayout>

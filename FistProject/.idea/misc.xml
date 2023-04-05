@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.10733695652173914" />
+        <entry key="app/src/main/res/drawable/bg_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_button_ripble.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_circle.xml" value="0.214" />
+        <entry key="app/src/main/res/layout-land/fragment_second.xml" value="0.35482456140350876" />
+        <entry key="app/src/main/res/layout-land/second_layout.xml" value="0.165" />
+        <entry key="app/src/main/res/layout-sw600dp/second_layout.xml" value="0.1969877130400317" />
+        <entry key="app/src/main/res/layout-sw720dp/second_layout.xml" value="0.176953125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15833333333333333" />
+        <entry key="app/src/main/res/layout/demo_image.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/demo_relative_layout.xml" value="0.19780701754385965" />
+        <entry key="app/src/main/res/layout/first_layout.xml" value="0.15729166666666666" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/profile_activity.xml" value="0.19780701754385965" />
+        <entry key="app/src/main/res/layout/second_layout.xml" value="0.1986842105263158" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

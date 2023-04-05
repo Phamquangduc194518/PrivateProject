@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/trangchu" android:title="@string/trang_ch" android:icon="@drawable/baseline_nene"/>
+    <item android:id="@+id/thitruong" android:title="@string/th_tr_ng" android:icon="@drawable/baseline_nene"/>
+    <item android:id="@+id/giaodich" android:title="@string/giao_d_ch" android:icon="@drawable/baseline_nene"/>
+    <item android:id="@+id/futures" android:title="@string/futures" android:icon="@drawable/baseline_nene"/>
+    <item android:id="@+id/vi" android:title="@string/v" android:icon="@drawable/baseline_nene"/>
+
+</menu>

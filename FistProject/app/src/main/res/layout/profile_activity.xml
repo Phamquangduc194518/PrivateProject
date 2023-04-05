@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#232e42"
+        android:minHeight="256dp">
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/btn_menu"
+            android:layout_width="?attr/actionBarSize"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?selectableItemBackgroundBorderless"
+            android:padding="14dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/round_menu_48dp"
+            android:tint="#01f2ff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:layout_marginLeft="32dp"
+            android:layout_toRightOf="@+id/btn_menu"
+            android:gravity="center"
+            android:text="Rebecca Rain"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:layout_width="?attr/actionBarSize"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_alignParentRight="true"
+            android:background="?selectableItemBackgroundBorderless"
+            android:padding="12dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/round_person_deep_purple_700_48dp"
+            android:tint="#01f2ff" />
+
+        <LinearLayout
+            android:id="@+id/ll_avatar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btn_menu"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:gravity="center">
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:background="@drawable/bg_circle_blue"
+                android:padding="14dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/baseline_person_add_blue_500_36dp"
+                android:tint="@color/white" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="96dp"
+                android:layout_height="96dp"
+                android:layout_marginLeft="48dp"
+                android:src="@drawable/aodai"
+                app:civ_border_color="@color/white"
+                app:civ_border_width="2dp" />
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:layout_marginLeft="48dp"
+                android:background="@drawable/bg_circle_blue"
+                android:backgroundTint="#00e777"
+                android:padding="14dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/round_message_deep_purple_700_48dp"
+                android:tint="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_below="@+id/ll_avatar"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Rebecca Rain"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:id="@+id/tv_name"
+                android:layout_height="wrap_content"/>
+            <View
+                android:layout_width="8dp"
+                android:backgroundTint="#00e777"
+                android:layout_alignBaseline="@+id/tv_name"
+                android:layout_toRightOf="@id/tv_name"
+                android:layout_marginLeft="8dp"
+                android:background="@drawable/bg_circle_blue"
+                android:layout_height="8dp"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

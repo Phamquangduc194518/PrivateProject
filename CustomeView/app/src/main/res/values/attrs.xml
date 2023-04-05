@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockViewKotlin">
+        <attr name="dfdf" format="reference"/>
+        <attr name="hanoi" format="color"/>
+        <attr name="size" format="dimension"/>
+    </declare-styleable>
+</resources>
