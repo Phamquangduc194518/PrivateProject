@@ -2,16 +2,24 @@ package com.example.binance;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentStatePagerAdapter;
+import androidx.fragment.app.FragmentTransaction;
 import androidx.viewpager.widget.ViewPager;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.MenuItem;
 
+import com.example.binance.vi.FundingFragment;
+import com.example.binance.vi.future.vithe.ViTheAdapter;
+
+import com.example.binance.vi.future.vithe.ViTheBlankFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.tabs.TabLayout;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements FundingFragment.FundingDataListener {
     private ViewPager viewPager;
     private ViewPagerAdapter viewPagerAdapter;
 
@@ -27,6 +35,10 @@ public class MainActivity extends AppCompatActivity {
 
         viewPagerAdapter = new ViewPagerAdapter(getSupportFragmentManager(), FragmentStatePagerAdapter.BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT);
         viewPager.setAdapter(viewPagerAdapter);
+        ViTheBlankFragment viTheBlankFragment = new ViTheBlankFragment();
+        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+        transaction.add(viTheBlankFragment, "ViTheBlankFragmentTag");
+        transaction.commit();
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
@@ -92,6 +104,14 @@ public class MainActivity extends AppCompatActivity {
                 return true;
             }
         });
+    }
 
+
+    @Override
+    public void onDataSend(String nameCoin, String quantityCoin) {
+        ViTheBlankFragment viTheBlankFragment = (ViTheBlankFragment) getSupportFragmentManager().findFragmentByTag("ViTheBlankFragmentTag");
+        if (viTheBlankFragment != null) {
+            viTheBlankFragment.receivedDataFromFunding(nameCoin, quantityCoin);
+        }
     }
 }

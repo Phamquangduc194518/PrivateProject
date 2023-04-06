@@ -1,6 +1,7 @@
 package com.example.binance.vi.future.vithe;
 
 import android.annotation.SuppressLint;
+import android.os.Bundle;
 import android.os.Handler;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,7 +12,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.binance.R;
+import com.example.binance.vi.FundingFragment;
 
+import java.lang.annotation.Annotation;
 import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
@@ -24,6 +27,7 @@ public class ViTheAdapter extends RecyclerView.Adapter<ViTheAdapter.ViTheViewHol
     private List<ViThe> mlist;
     private Handler mHandler;
     private Timer mTimer;
+
 
     @SuppressLint("NotifyDataSetChanged")
     public void setData(List<ViThe> list){
@@ -45,7 +49,7 @@ public class ViTheAdapter extends RecyclerView.Adapter<ViTheAdapter.ViTheViewHol
             public void onResponse(Call<Currency> call, Response<Currency> response) {
                 Currency currency = response.body();
                 if(currency != null){
-                    holder.number.setText(currency.getCost());
+                    holder.costOut.setText(currency.getCost());
                 }
             }
 
@@ -54,6 +58,9 @@ public class ViTheAdapter extends RecyclerView.Adapter<ViTheAdapter.ViTheViewHol
                 return;
             }
         });
+        holder.nameCoin.setText(vithe.getNameCoin());
+        holder.length.setText(vithe.getKt());
+
     }
 
     @Override
@@ -64,12 +71,23 @@ public class ViTheAdapter extends RecyclerView.Adapter<ViTheAdapter.ViTheViewHol
         return 0;
     }
 
+
     public class ViTheViewHolder extends RecyclerView.ViewHolder{
 
-        private TextView number;
+        private TextView nameCoin;
+        private TextView profit;
+        private TextView roe;
+        private TextView costIn;
+        private TextView costOut;
+        private TextView length;
         public ViTheViewHolder(@NonNull View itemView) {
             super(itemView);
-        number= itemView.findViewById(R.id.tv_number);
+        profit= itemView.findViewById(R.id.tv_profit);
+        nameCoin=itemView.findViewById(R.id.tv_name_coin);
+        roe = itemView.findViewById(R.id.tv_roe);
+        costIn=itemView.findViewById(R.id.tv_cost_in);
+        costOut=itemView.findViewById(R.id.tv_cost_out);
+        length=itemView.findViewById(R.id.tv_kt);
         }
     }
 

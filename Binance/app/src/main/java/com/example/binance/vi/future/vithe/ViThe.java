@@ -1,17 +1,27 @@
 package com.example.binance.vi.future.vithe;
 
 public class ViThe {
-    String name;
+    String nameCoin ;
+    String kt;
 
-    public ViThe(String name) {
-        this.name = name;
+    public ViThe(String nameCoin, String kt) {
+        this.nameCoin = nameCoin;
+        this.kt = kt;
     }
 
-    public String getName() {
-        return name;
+    public String getNameCoin() {
+        return nameCoin;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setNameCoin(String nameCoin) {
+        this.nameCoin = nameCoin;
+    }
+
+    public String getKt() {
+        return kt;
+    }
+
+    public void setKt(String kt) {
+        this.kt = kt;
     }
 }
