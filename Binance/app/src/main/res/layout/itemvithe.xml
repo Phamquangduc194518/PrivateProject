@@ -1,78 +1,186 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="13dp"
         android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_type_sell"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_gravity="center"
+            android:layout_marginEnd="10dp"
+            android:background="#f6465d"
+            android:gravity="center"
+            android:paddingStart="2dp"
+            android:paddingEnd="2dp"
+            android:text="Bá"
+            android:textColor="#FFFFFF"
+            android:textSize="12dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_type_buy"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_gravity="center"
+            android:layout_marginEnd="10dp"
+            android:background="#0ecb81"
+            android:gravity="center"
+            android:paddingStart="2dp"
+            android:paddingEnd="2dp"
+            android:text="M"
+            android:textColor="#FFFFFF"
+            android:textSize="12dp"
+            android:visibility="gone" />
 
         <TextView
             android:id="@+id/tv_name_coin"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="5dp"
-            android:text="NEARUSDT Vĩnh cửu"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="NEARUSDT"
             android:textColor="#000"
+
             android:textSize="16dp" />
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="3dp"
+            android:gravity="center"
+            android:text="Vĩnh cửu"
+            android:textColor="#000"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/tv_style_Isolated"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
             android:layout_marginStart="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="5dp"
-            android:text="Isolated 20x"
+            android:gravity="center"
+            android:text="Isolated"
+            android:textColor="#868e9b"
             android:textSize="12dp" />
 
         <TextView
+            android:id="@+id/tv_style_Isolated_x"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:text="!!!!"
+            android:layout_height="match_parent"
+            android:layout_marginStart="2dp"
+            android:gravity="center"
+            android:text="20"
+            android:textColor="#868e9b"
+            android:textSize="12dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="x"
+            android:textColor="#868e9b"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/tv_danger"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:gravity="center"
+            android:text="!"
+            android:textColor="#868e9b"
             android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tv_danger2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="!"
+            android:textColor="#868e9b"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tv_danger3"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="!"
+            android:textColor="#868e9b"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tv_danger4"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="!"
+            android:textColor="#868e9b"
+            android:textSize="20dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:src="@drawable/img_8"
+                app:tint="#929aa6" />
+        </RelativeLayout>
+
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="13dp"
         android:orientation="horizontal"
         android:weightSum="4">
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="10dp"
             android:layout_weight="3"
             android:text="PNL chưa được ghi nhận (USDT)"
+            android:textColor="#868e9b"
             android:textSize="12dp" />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="10dp"
             android:layout_weight="1"
             android:gravity="right"
             android:text="ROE"
+            android:textColor="#868e9b"
             android:textSize="12dp" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="13dp"
         android:orientation="horizontal"
-        android:weightSum="4.3">
+        android:weightSum="5">
 
         <TextView
             android:id="@+id/tv_profit"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="10dp"
-            android:layout_weight="3"
+            android:layout_weight="2"
+            android:fontFamily="sans-serif-condensed-medium"
             android:text="0.00"
             android:textColor="#f6465d"
             android:textSize="20dp" />
@@ -81,16 +189,20 @@
             android:id="@+id/tv_roe"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="2.8"
+            android:fontFamily="sans-serif-condensed-medium"
             android:gravity="right"
+            android:paddingEnd="1dp"
             android:text="ROE"
             android:textColor="#f6465d"
             android:textSize="20dp" />
 
         <TextView
+            android:id="@+id/tv_percent"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.2"
+            android:fontFamily="sans-serif-condensed-medium"
             android:gravity="right"
             android:text="%"
             android:textColor="#f6465d"
@@ -100,17 +212,26 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="13dp"
         android:orientation="horizontal"
         android:weightSum="5">
 
-        <TextView
+        <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
-            android:layout_weight="2"
-            android:text="Kích thước (USDT)"
-            android:textSize="12dp" />
+            android:layout_weight="2">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custom_text_dashed_underline"
+                android:text="Kích thước (USDT)"
+                android:textColor="#868e9b"
+                android:textSize="12dp" />
+        </LinearLayout>
+
 
         <TextView
             android:layout_width="0dp"
@@ -118,108 +239,119 @@
             android:layout_marginTop="8dp"
             android:layout_weight="2"
             android:text="Margin (USDT)"
+            android:textColor="#868e9b"
             android:textSize="12dp" />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:layout_marginEnd="10dp"
             android:layout_weight="1"
             android:gravity="right"
             android:text="Rủi ro"
+            android:textColor="#868e9b"
             android:textSize="12dp" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="13dp"
         android:orientation="horizontal"
-        android:weightSum="5.1">
+        android:weightSum="5">
 
         <TextView
             android:id="@+id/tv_kt"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
             android:layout_weight="2"
-            android:text="5.943"
-            android:textColor="#000"
+            android:text="200"
+            android:textColor="#000000"
             android:textSize="14dp" />
 
         <TextView
+            android:id="@+id/tv_margin"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="2"
-            android:text="0.29"
-            android:textColor="#000"
+            android:text="200"
+            android:textColor="#000000"
             android:textSize="14dp" />
 
         <TextView
+            android:id="@+id/tv_risk"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="0.85"
+            android:fontFamily="sans-serif-condensed-medium"
             android:gravity="right"
-            android:text="20.13"
-            android:textColor="#000"
+            android:text="200"
+            android:textColor="#000000"
             android:textSize="14dp" />
 
         <TextView
+            android:id="@+id/tv_risk_percent"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="10dp"
-            android:layout_weight="0.2"
-            android:gravity="left"
+            android:layout_weight="0.15"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:gravity="end"
             android:text="%"
-            android:textColor="#000"
-            android:textSize="16dp" />
+            android:textColor="#000000"
+            android:textSize="14dp" />
     </LinearLayout>
+
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="13dp"
         android:orientation="horizontal"
         android:weightSum="5">
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_weight="2"
             android:text="Giá vào lệnh"
+            android:textColor="#868e9b"
             android:textSize="12dp" />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:layout_weight="1.5"
+            android:layout_weight="2"
             android:text="Giá đánh dấu"
+            android:textColor="#868e9b"
             android:textSize="12dp" />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:layout_marginEnd="10dp"
-            android:layout_weight="1.5"
+            android:layout_weight="1"
             android:gravity="right"
             android:text="Giá thanh lý"
+            android:textColor="#868e9b"
             android:textSize="12dp" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="13dp"
         android:orientation="horizontal"
-        android:weightSum="5.1">
+        android:weightSum="5">
 
         <TextView
             android:id="@+id/tv_cost_in"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
             android:layout_weight="2"
             android:text="1.9820"
             android:textColor="#000"
@@ -229,15 +361,16 @@
             android:id="@+id/tv_cost_out"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="2"
+            android:layout_weight="1.8"
             android:text="1.9811"
             android:textColor="#000"
             android:textSize="14dp" />
 
         <TextView
+            android:id="@+id/tv_liquidation_price"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             android:gravity="right"
             android:text="1.9017"
             android:textColor="#000"

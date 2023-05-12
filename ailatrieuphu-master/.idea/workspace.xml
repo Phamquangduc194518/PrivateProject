@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de9d3032-00ac-48b4-8959-4a758c97b341" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/assets/Question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_a.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_a2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_b2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_c.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_c2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_d.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_d2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_now1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_now2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ans_now3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/background_music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/background_music_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/background_music_c.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/best_player.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/bgmusic.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/call.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/chuc_mung_vuot_moc_01_0.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/chuc_mung_vuot_moc_01_1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/chuc_mung_vuot_moc_02_0.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/gofind.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/gofind_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/help_call.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/help_callb.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/hoi_y_kien_chuyen_gia_01b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/important.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/khan_gia.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose_a.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose_a2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose_b2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose_c.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose_c2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose_d.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/lose_d2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/luatchoi_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/luatchoi_c.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/out_of_time.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques10.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques11.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques12.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques13.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques14.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques15.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques1_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques2_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques3_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques4_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques5_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques7.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques7_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques8.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques8_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques9.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ques9_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ready.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ready_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/ready_c.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/reday.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/sound5050.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/sound5050_2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/touch_sound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_a.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_a2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_a3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_b2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_b3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_c.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_c2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_c3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_d2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALTPFull/app/src/main/res/raw/true_d3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/CircularProgressBar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/ReadFile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/AppsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/CompressedFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/DocumentsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/DownloadsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/FavoritesFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/ImagesFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/MusicsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/RecentFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/StorageFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/fragment/VideosFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/model/ImageItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_apps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_compressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_documents.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_downloads.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_favorites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_images.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_musics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_recent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_storage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/fragment_videos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/item_image.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/xml/provider_paths.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbALTP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/androidTest/java/com/example/musichome/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/java/com/example/musichome/ItemSongOnline.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/java/com/example/musichome/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/java/com/example/musichome/SongOnlineAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/java/com/example/musichome/SquareImageView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/drawable/aodai1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/layout/item_music.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/app/src/test/java/com/example/musichome/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicHome/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/CurrentFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/InfoFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/NewListFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/OverDueFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/PrioritizedFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/SettingFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/ToDayFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/TrashFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/UpcomingFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/fragment/UpgradeFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/example/todolist/model/ToDoList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/completed_task.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/current.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/dots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/find.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/newlist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/overdue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/prioritized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/sort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/today.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/upcomming.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/upgrade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/font/alex.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/font/allura.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/font/pacifico.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_current.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_new_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_over_due.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_prioritized.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_to_day.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_trash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_upcoming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/fragment_upgrade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/layout_header_nav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/menu/menu_nav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/menu/menu_toolbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/File.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/FileAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/java/com/example/btfilemanager/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/item_file.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/layout/item_file.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTFileManager/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Binance/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/ViewPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/vi/FundingFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/vi/FundingFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/vi/future/vithe/ApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/vi/future/vithe/ApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/vi/future/vithe/ViTheAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/vi/future/vithe/ViTheAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/vi/future/vithe/ViTheBlankFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Binance/app/src/main/java/com/example/binance/vi/future/vithe/ViTheBlankFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Binance/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binance/app/src/main/res/menu/menu_bottom_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Binance/app/src/main/res/menu/menu_bottom_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Corountine/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Corountine/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileManager/app/src/main/java/com/t3h/filemanager/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FileManager/app/src/main/java/com/t3h/filemanager/MainActivity.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OlNfm0BK9oVf9ypxn56vtr9b22" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/ducpq/AndroidStudioProjects/AiLaTrieuPhu"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9d3032-00ac-48b4-8959-4a758c97b341" name="Changes" comment="" />
+      <created>1682131314151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682131314151</updated>
+    </task>
+    <servers />
+  </component>
+</project>

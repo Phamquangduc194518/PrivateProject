@@ -22,17 +22,7 @@ public class FundingFragment extends Fragment {
     private EditText nameCoin;
     private EditText quantityCoin;
     private Button call;
-    private FundingDataListener listener;
 
-    public interface FundingDataListener {
-        void onDataSend(String nameCoin, String quantityCoin);
-    }
-
-    @Override
-    public void onAttach(@NonNull Context context) {
-        super.onAttach(context);
-        listener = (FundingDataListener) context;
-    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -42,13 +32,13 @@ public class FundingFragment extends Fragment {
         nameCoin = mView.findViewById(R.id.edt_name_coin);
         quantityCoin = mView.findViewById(R.id.edt_quantity_coin);
         call = mView.findViewById(R.id.btn_call);
-        call.setOnClickListener(v -> senDataToActivity());
+//        call.setOnClickListener(v -> senDataToActivity());
         return mView;
     }
 
-    private void senDataToActivity() {
-        String nameCoinStr = nameCoin.getText().toString();
-        String quantityCoinStr = quantityCoin.getText().toString();
-        listener.onDataSend(nameCoinStr, quantityCoinStr);
-    }
+//    private void senDataToActivity() {
+//        String nameCoinStr = nameCoin.getText().toString();
+//        String quantityCoinStr = quantityCoin.getText().toString();
+//        listener.onDataSend(nameCoinStr, quantityCoinStr);
+//    }
 }
